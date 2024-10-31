@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to bottom right, #ebf8ff, #cfe2ff);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.border-dashed {
+    border-style: dashed !important;
+}
