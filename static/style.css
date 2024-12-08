@@ -11,3 +11,11 @@ body {
 .border-dashed {
     border-style: dashed !important;
 }
+
+.table-responsive table th {
+    text-align: center !important; /* Переопределяем стиль pandas */
+}
+
+.table-responsive table td {
+    text-align: center; /* Выравниваем содержимое ячеек */
+}
